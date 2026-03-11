@@ -64,5 +64,6 @@ int main() {
         printf("Il padre ha inviato %d righe di log.\n", num_logs);
     }
 
+
     return 0;
 }
